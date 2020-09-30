@@ -28,6 +28,12 @@
     "test-app-e2e": {
       "tags": [],
       "implicitDependencies": ["test-app"]
+    },
+    "test-lib": {
+      "tags": []
+    },
+    "another-test-lib": {
+      "tags": []
     }
   }
 }
